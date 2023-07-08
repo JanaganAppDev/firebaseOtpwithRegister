@@ -1,0 +1,4 @@
+#Mon Jun 26 18:30:01 IST 2023
+base.0=C\:\\jana\\my\\task\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
